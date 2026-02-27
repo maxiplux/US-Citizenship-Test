@@ -1,0 +1,7 @@
+{
+  "name": "Civics Test Voice Assistant",
+  "description": "Practice the US Citizenship Civics Test with a voice-enabled AI examiner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
